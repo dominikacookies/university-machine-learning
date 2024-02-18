@@ -2,6 +2,7 @@
   "name": "university-machine-learning",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dominikacookies.github.io/university-machine-learning",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
