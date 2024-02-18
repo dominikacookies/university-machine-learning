@@ -2,16 +2,15 @@ export const LearningTypes = () => {
   return (
     <>
       <p>
-        In one of the first units we explored AI and ML applications along with
-        some of the learning types. This was a nice refresher from the previous
-        modules and a great way to get started with the module. Below is a
-        summary of my understanding.
+        In the first units, we explored the applications of AI and ML along with
+        some learning types. This was a nice refresher from the previous
+        modules. Below is an extract of my notes from this time.
       </p>
       <h3>unsupervised learning</h3>
       <p>
         Learning without labelled data. Models learn through identifying
         patterns, anomalies and relationships. One of the most commonly known
-        algorithms that uses unsupervised learninig is clustering.
+        algorithms that use unsupervised learning is clustering.
       </p>
 
       <h3>supervised learning</h3>
@@ -37,10 +36,10 @@ export const LearningTypes = () => {
       </p>
       <h3>Reinforcement Learning</h3>
       <p>
-        Similar to the psychological concept, prime example being Thorndike’s
-        (1898) research, but with machienes. The agent learns by interacting
-        with its environement and adjusts responses based on the received reward
-        or penalty.
+        Similar to the psychological concept, the prime example being
+        Thorndike’s (1898) research, but with machines. The agent learns by
+        interacting with its environement and adjusts responses based on the
+        received reward or penalty.
       </p>
       <h4>References</h4>
       <p>

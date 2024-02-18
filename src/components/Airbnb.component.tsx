@@ -21,13 +21,13 @@ export const Airbnb = () => {
         It was a great initial insight into the price distributions across New
         York and the vast differences in the prices of short term rentals there.
       </p>
-      <img src="./airbnb/heatmap.png" />
+      <img src="university-machine-learning/airbnb/heatmap.png" />
       <h3>Finding the number of clusters</h3>
       <p>
         This graph shows the 'elbow curve' which we used to identify the amount
         of clusters for the K-means algorithm.
       </p>
-      <img src="./airbnb/elbow.png" />
+      <img src="university-machine-learning/airbnb/elbow.png" />
       <h3>Cluster distribution</h3>
       <p>
         This is a piece I was incredibly proud of the group producing. I am a
@@ -36,7 +36,7 @@ export const Airbnb = () => {
         York City. Anyone familiar with New York should be able to relatively
         easily identify which negibourhood(s) are included in which cluster.
       </p>
-      <img src="./airbnb/clusters.png" />
+      <img src="university-machine-learning/airbnb/clusters.png" />
     </>
   );
 };

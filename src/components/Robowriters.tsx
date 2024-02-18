@@ -2,25 +2,24 @@ export const Robowriters = () => {
   return (
     <>
       <p>
-        This was the second collaborative discussion of this module. I found
-        this particularly interesting as it was a topic I myself was currently
-        dwelving on. At the time, I was preparing to submit a talk proposal for
-        a conference. I tried to use ChatGPT to generate a compelling
-        description of my talk however found its response dissapointing, no
-        matter how much I altered my prompts. I found that the model struggled
-        to assert a voice that was both professional and relaxed, and seemed to
-        often fall back on using very cheesy jokes to lighten an overly formal
-        text. Ultimately, I ended up walking away from the tool and writing my
-        own description, though admitedly somewhat inspired by some of the puns
-        it managed to generate.
+        This was the second collaborative discussion of this module. I found it
+        particularly interesting as it was a topic I was currently dwelling on
+        myself. At the time, I was preparing to submit a talk proposal for a
+        conference. I tried to use ChatGPT to generate a compelling description
+        of my talk however found its responses disappointing, no matter how much
+        I altered my prompts. I felt that the model struggled to assert a voice
+        that was both professional and relaxed, often falling back on using very
+        cheesy jokes to lighten an overly formal text. Ultimately, I walked away
+        from the tool and wrote my own description, though admittedly somewhat
+        inspired by some of the puns it managed to generate.
       </p>
       <p>
-        In this assignmenet, I was suprised by how many of my peers chose to
+        In this assignment, I was surprised by how many of my peers chose to
         zoom in on how AI could cause job losses instead of how it could impact
         our creativity as humanity. I think this highlighted the fear many
         individuals have regarding the quick advancements in this space.
         Interestingly, in an interview with Google, Zanny Minton Beddoes, the
-        Editor-in-Chief of The Economist highlighted how excited she is about AI
+        Editor-in-Chief of The Economist mentioned how excited she is about AI
         possibly supporting editors in their roles instead of replacing them.
         Please see the video below if you're interested in watching the whole
         interview.
@@ -28,7 +27,7 @@ export const Robowriters = () => {
       <a href="https://www.youtube.com/watch?v=uGpAVMddI1Q&t=21s">
         🔗 Zanny Minton Beddoes x James Manyika interview
       </a>
-      <h3>Inital post</h3>
+      <h3>Initial post</h3>
       <p>
         The introduction of AI writers has been thrilling to observe,
         particularly as their uptake has sky-rocketed in the past years. I

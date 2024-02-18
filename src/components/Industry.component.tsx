@@ -2,21 +2,20 @@ export const Industry = () => {
   return (
     <>
       <p>
-        This module included two great collaborative discussions. This was the
-        first of them, set out to discuss the role of AI in Industry 4.0. It is
-        undeniable what a great impact and contributions AI has delivered to our
-        industries. I anticipated that most of my peers would be excited to
-        discuss all of the positives therefore I wanted to choose a slightly
-        different angle, one that is perhaps more traditionally considered
-        'boring' but couldn't be more crucial to definining AI's direction:
-        ethics. With so many new libaries to evaluate the discrimination of
-        models and talks of new laws to help evaluate the ethics behind models
-        before they're released to the world, I was very keen to hear what my
-        peers, the future leaders of this industry, had to say on the topic.
-        Below you can read my inital post that I hoped would spark such a
-        discussion.
+        This module included two collaborative discussions. This was the first
+        of them, set out to explore the role of AI in Industry 4.0. It is
+        undeniable what a great impact and contributions AI has delivered. I
+        anticipated that most of my peers would be excited to discuss all of the
+        positives therefore I wanted to choose a slightly different angle, one
+        that is perhaps more traditionally considered 'boring' but couldn't be
+        more crucial to definining AI's direction: ethics. With so many new
+        libaries to evaluate the discrimination of models and talks of new laws
+        to help assess the ethics of models before they're released to the
+        world, I was very keen to hear what my peers, the future leaders of this
+        industry, had to say on the topic. Below you can read my inital post
+        that I hoped would spark such a discussion.
       </p>
-      <h3>Inital post</h3>
+      <h3>Initial post</h3>
       <p>
         Machine learning and AI have revolutionised businesses and our daily
         lives. Many of their applications have helped to elevate mundane tasks

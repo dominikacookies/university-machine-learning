@@ -30,7 +30,7 @@ function App() {
         </section>
         <section className="content-container">
           <article id="about-me">
-            <img src="./headshot.jpg" />
+            <img src="university-machine-learning/headshot.jpg" />
             <div>
               <h1>dominika pietrzak</h1>
               <p>

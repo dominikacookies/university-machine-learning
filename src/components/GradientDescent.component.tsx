@@ -8,12 +8,12 @@ export const GradientDescent = () => {
         illustrate the impact that increasing/decreasing the learning rate had
         on decreasing the cost in 150 iterations.
       </p>
-      <img src="./gradient-descent/table.png" />
+      <img src="university-machine-learning/gradient-descent/table.png" />
       <p>
-        As we can see, up to a point, the higher the learning rate was the less
+        As we can see, up to a point, the higher the learning rate was the fewer
         iterations it took to achieve a lower cost. However, after a certain
         threshold, the learning rate was too high for the model to keep
-        converging toward the minimum, instead, it appears to have distabilised.
+        converging toward the minimum, instead, it appears to have destabilised.
       </p>
       <h4>other</h4>
       <p>A link to a great video from StatQuest explaining gradient descent</p>

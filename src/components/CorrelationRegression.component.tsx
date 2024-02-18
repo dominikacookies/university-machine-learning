@@ -15,17 +15,17 @@ export const CorrelationRegression = () => {
           impact the pearson’s correlation and covariance values. To start, the
           two datasets were positively correlated.
         </p>
-        <img src="./correlation-regression/pearson-1.png" />
+        <img src="university-machine-learning/correlation-regression/pearson-1.png" />
         <p>
           The unit’s material suggested that the metric is heavily impacted by
           outliers. I wanted to see how just by how much exactly so I introduced
           10 outliers to the data. Despite 10 values only representing 1% of the
-          entire dataset (1,000 values), they had a very big impact on the
-          correlation value, reducing it from 0.888 to 0.658. This highlighted
-          the importance of identifying and removing outliers if using this
-          method in the future to me.
+          entire dataset, they had a very big impact on the correlation value,
+          reducing it from 0.888 to 0.658. This highlighted the importance of
+          identifying and removing outliers if using this method in the future
+          to me.
         </p>
-        <img src="./correlation-regression/pearson-2.png" />
+        <img src="university-machine-learning/correlation-regression/pearson-2.png" />
         <p>
           Next, I wanted to see if the impact would still be as big if the
           outliers represented 0.1% of data so I kept the 10 outliers but
@@ -35,14 +35,14 @@ export const CorrelationRegression = () => {
           the difference in covariance was still incredibly visible (403.267 vs
           389.755).
         </p>
-        <img src="./correlation-regression/pearson-3.png" />
+        <img src="university-machine-learning/correlation-regression/pearson-3.png" />
       </div>
       <div className="space-after">
         <h3>Multiple regression</h3>
         <p>
           This method is an extension of linear regression. It is used to model
           the relationship between a dependant variable and 2+ independent
-          variables
+          variables.
         </p>
         <p>
           In this method, the relationships are measured using a coefficient.
@@ -66,7 +66,7 @@ export const CorrelationRegression = () => {
           <br /> Below is one of the predictions I ran based on this linear
           relationship.
         </p>
-        <img src="./correlation-regression/multiple-linear-regression.png" />
+        <img src="university-machine-learning/correlation-regression/multiple-linear-regression.png" />
       </div>
       <div>
         <h3>Plynominal Regression</h3>
@@ -78,7 +78,7 @@ export const CorrelationRegression = () => {
           'degree'. The higher the degree, the curvier the line can be, which is
           best illustrated with an example.
         </p>
-        <img src="./correlation-regression/polynominal.png" />
+        <img src="university-machine-learning/correlation-regression/polynominal.png" />
         <p>
           In this image we can see that as the degree increased so did the
           curviness of the line and how it fit the data. This is not always a

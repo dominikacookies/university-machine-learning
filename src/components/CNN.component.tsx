@@ -3,17 +3,17 @@ export const CNN = () => {
     <>
       <p>
         I always found the concept of a model being able to identify what an
-        image contains absolutley fascinating. It's such a complex task when you
+        image contains absolutely fascinating. It's such a complex task when you
         really think about what identifying images means, that it genuinely
-        blows my mind that a model can take some numbers (rgb channel values)
+        blows me away that a model can take some numbers (RGB channel values)
         and from that, be able to predict whether a picture contains a dog or
         not.
       </p>
       <figure>
-        <img src="./cnn/prediction.png" />
+        <img src="university-machine-learning/cnn/prediction.png" />
         <figcaption>
           An example correct identification of a horse by a model from one of
-          tutorials
+          tutorials.
         </figcaption>
       </figure>
       <p>
@@ -21,21 +21,21 @@ export const CNN = () => {
         different parameters in the tutorial code, I found it helpful to verify
         my knowledge by explaining to myself what impact increasing/decreasing a
         value would have on the network before running the change through the
-        model. Below, are a couple of such explanations from my notes.
+        model. Below are a couple of such explanations from my notes.
       </p>
       <h3>Kernel size</h3>
       <h4>LARGE</h4>
       <p>
-        Large kernerls help us to cover larger areas of the image at any one
+        Large kernels help us to cover larger areas of the image at any one
         time. This means that the CNN is able to better understand global
-        patterns and contexts that objects often appear in. A large kernel can
+        patterns and contexts in which objects often appear. A large kernel can
         help to avoid overfitting
       </p>
       <h4>SMALL</h4>
       <p>
-        A smaller kernel size helps to capture smaller scale nuances in the data
-        and retain more of the spatial features as the image progressed through
-        the network. This inturn can lead to a higher accuracy.
+        A smaller kernel size helps to capture smaller-scale nuances in the data
+        and retain more of the spatial features as the image progresses through
+        the network. This in turn can lead to a higher model accuracy.
       </p>
       <h3>Stride</h3>
       <h4>large</h4>
@@ -44,7 +44,10 @@ export const CNN = () => {
         overfitting by downsampling the data.
       </p>
       <h4>small</h4>
-      <p>helps to retain more spatial information and localisation accuracy</p>
+      <p>
+        A smaller stride helps to retain more spatial information and
+        localisation accuracy
+      </p>
       <h3>Number of convolutional layers</h3>
       <h4>more</h4>
       <p>
@@ -53,14 +56,14 @@ export const CNN = () => {
       </p>
       <h4>less</h4>
       <p>
-        lower amounts of layers are quicker to run and easier to interpret.
-        Having less layers can reduce the model’s capacity to learn noise,
-        preventing it from overfitting.
+        Lower amounts of layers make the model simpler and therefore quicker to
+        train. Having less layers can reduce the model’s capacity to learn
+        noise, preventing it from overfitting.
       </p>
       <figure>
-        <img src="./cnn/convolutional-layers.png"></img>
+        <img src="university-machine-learning/cnn/convolutional-layers.png"></img>
         <figcaption>
-          Convolution layers with multiple feature maps(Géron, 2022)
+          Convolution layers with multiple feature maps (Géron, 2022)
         </figcaption>
       </figure>
       <h3>number of filters</h3>
