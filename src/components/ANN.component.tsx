@@ -19,7 +19,7 @@ export const ANN = () => {
         influenced by its value.
       </p>
       <figure>
-        <img src="university-machine-learning/ann/preceptron.png" />
+        <img src="./ann/preceptron.png" />
         <figcaption>Perceptron visualisation (Géron, 2022)</figcaption>
       </figure>
 
@@ -32,7 +32,7 @@ export const ANN = () => {
         problem-solving.
       </p>
       <figure>
-        <img src="university-machine-learning/ann/multi-layer-preceptron.png" />
+        <img src="./ann/multi-layer-preceptron.png" />
         <figcaption>MLP visualisation (Géron, 2022)</figcaption>
       </figure>
       <p>

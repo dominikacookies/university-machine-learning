@@ -10,7 +10,7 @@ export const CNN = () => {
         not.
       </p>
       <figure>
-        <img src="university-machine-learning/cnn/prediction.png" />
+        <img src="./cnn/prediction.png" />
         <figcaption>
           An example correct identification of a horse by a model from one of
           tutorials.
@@ -61,7 +61,7 @@ export const CNN = () => {
         noise, preventing it from overfitting.
       </p>
       <figure>
-        <img src="university-machine-learning/cnn/convolutional-layers.png"></img>
+        <img src="./cnn/convolutional-layers.png"></img>
         <figcaption>
           Convolution layers with multiple feature maps (Géron, 2022)
         </figcaption>

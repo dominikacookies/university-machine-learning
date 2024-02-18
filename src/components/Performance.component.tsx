@@ -23,7 +23,7 @@ export const Performance = () => {
         count of false negatives for label 1 being 2 vs 1 count for label 0.
       </p>
       <figure>
-        <img src="university-machine-learning/performance/confusion-matrix.png" />
+        <img src="./performance/confusion-matrix.png" />
         <figcaption>
           Confusion matrix result for unit 11 tutorial model
         </figcaption>
@@ -51,7 +51,7 @@ export const Performance = () => {
         model.
       </p>
       <figure>
-        <img src="university-machine-learning/performance/f1.png" />
+        <img src="./performance/f1.png" />
         <figcaption>
           F1, precision and recall results for unit 11 tutorial model
         </figcaption>
@@ -72,7 +72,7 @@ export const Performance = () => {
         optimal.
       </p>
       <figure>
-        <img src="university-machine-learning/performance/roc.png" />
+        <img src="./performance/roc.png" />
         <figcaption>ROC curve for unit 11 tutorial model</figcaption>
       </figure>
     </>

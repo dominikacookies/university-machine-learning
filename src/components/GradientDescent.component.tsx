@@ -8,7 +8,7 @@ export const GradientDescent = () => {
         illustrate the impact that increasing/decreasing the learning rate had
         on decreasing the cost in 150 iterations.
       </p>
-      <img src="university-machine-learning/gradient-descent/table.png" />
+      <img src="./gradient-descent/table.png" />
       <p>
         As we can see, up to a point, the higher the learning rate was the fewer
         iterations it took to achieve a lower cost. However, after a certain
