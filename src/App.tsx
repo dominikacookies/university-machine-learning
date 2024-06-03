@@ -12,6 +12,7 @@ function App() {
           <a href="#about-me">👉🏼 About Me</a>
           <a href="#agent-dailogues">👉🏼 Creating Agent Dialogues </a>
           <a href="#parse-trees">👉🏼 Constituency-based Parse Trees</a>
+          <a href="#artefacts">👉🏼 Vulnerability Scanner Work Flows</a>
           <a href="#discussions">👉🏼 Discussions</a>
         </section>
         <section className="content-container">
@@ -37,6 +38,17 @@ function App() {
           <article id="parse-trees">
             <h2>Constituency-based Parse Trees</h2>
             <ParseTrees />
+          </article>
+          <article id="artefacts">
+            <h2>ulnerability Scanner Work Flows</h2>
+            <p>
+              Below are the workflows I have created to represent the logic of
+              the vulnerability scanner.
+            </p>
+            <h4>OVERVIEW WORKFLOW</h4>
+            <img src="./artefacts/overview.png" />
+            <h4>DETAILED WORKFLOW</h4>
+            <img src="./artefacts/detail.png" />
           </article>
           <article id="discussions">
             <h2>Discussions</h2>
