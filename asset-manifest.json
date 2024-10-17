@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/university-machine-learning/static/css/main.e1077199.css",
-    "main.js": "/university-machine-learning/static/js/main.fed45833.js",
+    "main.js": "/university-machine-learning/static/js/main.8d6c1d03.js",
     "static/js/453.b4249e5f.chunk.js": "/university-machine-learning/static/js/453.b4249e5f.chunk.js",
     "index.html": "/university-machine-learning/index.html",
     "main.e1077199.css.map": "/university-machine-learning/static/css/main.e1077199.css.map",
-    "main.fed45833.js.map": "/university-machine-learning/static/js/main.fed45833.js.map",
+    "main.8d6c1d03.js.map": "/university-machine-learning/static/js/main.8d6c1d03.js.map",
     "453.b4249e5f.chunk.js.map": "/university-machine-learning/static/js/453.b4249e5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1077199.css",
-    "static/js/main.fed45833.js"
+    "static/js/main.8d6c1d03.js"
   ]
 }
