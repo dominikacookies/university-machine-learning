@@ -10,7 +10,7 @@ function App() {
     <body>
       <div className="container">
         <section className="contents">
-          <h2>Contents</h2>
+          <h2>Content</h2>
           <a href="#about-me">👉🏼 About Me</a>
           <a href="#lit-review">👉🏼 Literature Review Plan</a>
           <a href="#research-proposal">👉🏼 Research Proposal</a>
