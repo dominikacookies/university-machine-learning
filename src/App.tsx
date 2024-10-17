@@ -1,7 +1,9 @@
 import "./App.css";
-import { Dialogues } from "./components/IntelligentAgents/Dialogues.component";
-import { Discussions } from "./components/IntelligentAgents/Discussions.component";
-import { ParseTrees } from "./components/IntelligentAgents/ParseTrees.component";
+import { Data } from "./components/ResearchMethods/Data.component";
+import { Discussions } from "./components/ResearchMethods/Discussions.component";
+import { Hypothesis } from "./components/ResearchMethods/Hypothesis.component";
+import { LitReview } from "./components/ResearchMethods/LitReview.component";
+import { ResearchProposal } from "./components/ResearchMethods/ResearchProposal.component";
 
 function App() {
   return (
@@ -10,10 +12,11 @@ function App() {
         <section className="contents">
           <h2>Contents</h2>
           <a href="#about-me">👉🏼 About Me</a>
-          <a href="#agent-dailogues">👉🏼 Creating Agent Dialogues </a>
-          <a href="#parse-trees">👉🏼 Constituency-based Parse Trees</a>
-          <a href="#artefacts">👉🏼 Vulnerability Scanner Work Flows</a>
-          <a href="#discussions">👉🏼 Discussions</a>
+          <a href="#lit-review">👉🏼 Literature Review Plan</a>
+          <a href="#research-proposal">👉🏼 Research Proposal</a>
+          <a href="#data">👉🏼 Data Analysis and Charting</a>
+          <a href="#hypothesis">👉🏼 Hypothesis Testing</a>
+          <a href="#discussions">👉🏼 Collaborative Discussions</a>
         </section>
         <section className="content-container">
           <article id="about-me">
@@ -31,27 +34,24 @@ function App() {
             </div>
           </article>
           <hr />
-          <article id="agent-dailogues">
-            <h2>Creating Agent Dialogues</h2>
-            <Dialogues />
+          <article id="lit-review">
+            <h2>Literature Review Plan</h2>
+            <LitReview />
           </article>
-          <article id="parse-trees">
-            <h2>Constituency-based Parse Trees</h2>
-            <ParseTrees />
+          <article id="data">
+            <h2>Data Analysis and Charting</h2>
+            <Data />
           </article>
-          <article id="artefacts">
-            <h2>ulnerability Scanner Work Flows</h2>
-            <p>
-              Below are the workflows I have created to represent the logic of
-              the vulnerability scanner.
-            </p>
-            <h4>OVERVIEW WORKFLOW</h4>
-            <img src="./artefacts/overview.png" />
-            <h4>DETAILED WORKFLOW</h4>
-            <img src="./artefacts/detail.png" />
+          <article id="research-proposal">
+            <h2>Research Proposal</h2>
+            <ResearchProposal />
+          </article>
+          <article id="hypothesis">
+            <h2>Hypothesis Testing</h2>
+            <Hypothesis />
           </article>
           <article id="discussions">
-            <h2>Discussions</h2>
+            <h2>Collaborative Discussions</h2>
             <Discussions />
           </article>
         </section>
