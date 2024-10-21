@@ -2,15 +2,10 @@ export const Data = () => {
   return (
     <>
       <p>
-        In units seven and nine, we learned new data analysis and charting
-        techniques. Below you will find examples of some of the cases we
-        explored along with interpretations of the findings.
+        Below are some examples of data analysis and visualisation techinques we
+        explored, along with interpretations of findings.
       </p>
       <h3>Diet and weightloss</h3>
-      <p>
-        One of the first exercises investigated the weight loss outcomes from
-        two diets, Diet A and Diet B.
-      </p>
       <img src="./research-methods/diets-table.png" />
       <p>
         Our findings showed that Diet A, on average, resulted in 1.631 kg more
@@ -37,11 +32,6 @@ export const Data = () => {
         following Diet A.
       </p>
       <h3>Cereal brand preference</h3>
-      <p>
-        The next exercise used cereal brand preference data. In this exercise we
-        compared the popularity of brands A and B vs other brands in areas 1 and
-        2.
-      </p>
       <img src="./research-methods/cereal-table.png" />
       <img src="./research-methods/cereal-graph.png" />
       <p>
@@ -54,18 +44,13 @@ export const Data = () => {
         choice in this area.
       </p>
       <h3>Heather species sparsity</h3>
-      <p>
-        This exercise compared the distribution of heather in locations A and B.
-      </p>
       <img src="./research-methods/heather-graph.png" />
       <p>
-        From the above diagram, location A seems better suited for encouraging
-        Heather growth. Here, Heather is present in 85.7% of the area, and
-        abundant in 46.4% of it suggesting a varied habitat of more and less
-        suited growing areas. In location B, we observe Heather to cover much
-        less of the area, 54.5%. In places that it is found, it’s more often
-        sparse than abundant suggesting that overall, Location B offers less
-        favourable growing conditions than location A.
+        From the diagram, location A appears more suitable for Heather growth,
+        covering 85.7% of the area, with 46.4% showing abundant growth. In
+        contrast, Heather covers only 54.5% of location B, where it is mostly
+        sparse, indicating less favorable growing conditions compared to
+        location A.
       </p>
     </>
   );

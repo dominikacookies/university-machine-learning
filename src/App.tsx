@@ -12,7 +12,7 @@ function App() {
         <section className="contents">
           <h2>Content</h2>
           <a href="#about-me">👉🏼 About Me</a>
-          <a href="#safe">👉🏼 Proposal for a 'Safe AI' certification body</a>
+          <a href="#safe">👉🏼 'Safe AI' certification body proposal</a>
           <a href="#research-proposal">👉🏼 Research Proposal</a>
           <a href="#data">👉🏼 Data Analysis and Charting</a>
           <a href="#lit-review">👉🏼 Literature Review Plan</a>
@@ -27,31 +27,27 @@ function App() {
               <p>
                 Vibrant fullstack web engineer with a strong focus on product,
                 performance and security. Passionate about AI and eager to
-                contribute to its open source space. Enjoys working as part of
-                highly performing teams with a strong culture and clear mission.
-                Great communicator, passionate about her work and the people she
-                works with.
+                contribute to its open source space.
               </p>
             </div>
           </article>
           <hr />
           <article id="safe">
-            <h2>Proposal for a 'Safe AI' certification body</h2>
+            <h2>'Safe AI' certification body proposal</h2>
             <p>
               One of the most exciting assignments in this module involved
-              writing a reflective piece about AI regulation and proposing some
-              actions that could be taken to help ensure that generative AI
-              models are ethical.{" "}
+              writing a reflective piece about AI guidelines and proposing
+              actions to support ethical generative AI development.
             </p>
             <p>
-              I proposed the development of a 'Safe AI' certification body,
-              which similar to B Corp of Fairtrade organisations, would ensure a
-              certain standard of ethical development in generative AI, helping
-              end consumers make more informed choices on the models they use
-              and incentivise companies to undertake ethical practices.
+              I proposed the creation of a 'Safe AI' certification body, which,
+              similar to B Corp or Fairtrade organisations, would ensure a
+              standard of ethical development in generative AI, helping end
+              consumers make more informed choices on the models they use and
+              incentivise companies to undertake ethical practices.
             </p>
             <a href="https://docs.google.com/document/d/17eO4nTFQANEmzSjmGaUiDHZl3wBrOnwFWCL6WSqmk0Q/edit?usp=sharing">
-              🔗 You can read the whole piece by clicking here 🔗
+              🔗 Read the essay here 🔗
             </a>
           </article>
           <article id="data">

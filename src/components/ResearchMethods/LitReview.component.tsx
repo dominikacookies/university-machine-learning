@@ -1,13 +1,13 @@
 export const LitReview = () => (
   <>
     <p>
-      A key assignment of this module was conducting a literature review. Below
-      is the brief I wrote to base my research on.
+      A key assignment of this module was conducting a literature review, below
+      is my brief for it.
     </p>
     <h3>BRIEF</h3>
     <p>
-      This literature review will explore the role of machine learning (ML) in
-      customer profiling, focusing on how businesses can utilise ML to enhance
+      This review will explore the role of machine learning (ML) in customer
+      profiling, focusing on how businesses can utilise ML to enhance
       personalisation efforts. In today’s data-driven world, ML offers a more
       dynamic and accurate approach to customer profiling than traditional
       methods, enabling businesses to predict consumer behaviour and tailor

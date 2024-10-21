@@ -7,27 +7,25 @@ export const Discussions = () => (
     </p>
     <h3>Codes of Ethics and Professional Conduct</h3>
     <p>
-      One of the first assignments in the Research Methods module was a
-      collaborative discussion in which we explored the the case study of
-      Corazon, a medical technology startup that builds heart health monitoring
-      devices. The discussion oscillated around the duality in which the
-      company's actions could be perceived.
+      In this discussion we explored the the case study of Corazon, a medical
+      technology startup that builds heart health monitoring devices. The
+      discussion oscillated around the duality in which the company's actions
+      could be perceived.
     </p>
     <p>
       On the one hand, the company showed great professionalism in opening a bug
       bounty program and being honest about the vulnerabilities found in its
-      system, adhering to the Association for Computing Machinery (ACM)
-      principle 1.3 on the honesty and trustworthiness of an organization. On
-      the other hand, however, despite accepting a report of a bug which could
-      reset a heart monitoring device, Corazon did not take any action to fix
-      the bug. They worked with the researcher who identified it and together
-      deemed it a ‘negligible’ risk. According to research by Anderson et al.
-      (2021), the potential risks of ignoring seemingly minor vulnerabilities
-      can be significant. This feels particularly true for medical devices. This
-      led us to ask the question: who should have the authority to identify
-      technology risks as negligible? Here, Danielle recommended consulting
-      independent research bodies such as Qualysec (N.D) for advice to limit the
-      impacts of conflict of interest.
+      system, adhering to the ACM principle 1.3 on the honesty and
+      trustworthiness of an organization. On the other hand, however, despite
+      accepting a report of a bug which could reset a heart monitoring device,
+      Corazon did not take any action to fix the bug. They worked with the
+      researcher who identified it and together deemed it a ‘negligible’ risk.
+      According to research by Anderson et al. (2021), the potential risks of
+      ignoring seemingly minor vulnerabilities can be significant. This feels
+      particularly true for medical devices. This led us to ask the question:
+      who should have the authority to identify technology risks as negligible?
+      Here, Danielle recommended consulting independent research bodies such as
+      Qualysec (N.D) for advice to limit the impacts of conflict of interest.
     </p>
     <p>
       In summary, whilst we identified Corazon as having made an honourable
