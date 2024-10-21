@@ -1,6 +1,11 @@
 export const Discussions = () => (
   <>
-    <h3>Discussion Topic: Codes of Ethics and Professional Conduct</h3>
+    <p>
+      Lastly, this module also included many opportunities to collaborate and
+      discuss important AI concepts, and their ethical implications with our
+      peers. Below you can find the summaries of two such discussions.
+    </p>
+    <h3>Codes of Ethics and Professional Conduct</h3>
     <p>
       One of the first assignments in the Research Methods module was a
       collaborative discussion in which we explored the the case study of
@@ -44,8 +49,7 @@ export const Discussions = () => (
       Qualysec (N.D.) Qualysec: Beyond Cybersecurity Available at:
       https://qualysec.com/faq/ [Accessed 19 August 2024]
     </p>
-    <h3>Discussion Topic: Agent Communication Languages</h3>
-    <h4>Accuracy of Information</h4>
+    <h3>Ethics and Information accuracy</h3>
     <p>
       The second discussion explored the ethical dilemma faced by a researcher
       whose data on the cereal "Whizzz" contradicted its claimed nutritional

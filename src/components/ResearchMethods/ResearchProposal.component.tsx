@@ -5,6 +5,7 @@ export const ResearchProposal = () => (
       new research. Below you can find the ‘pitch’ I wrote to base my proposal
       and research on.
     </p>
+    <h3>BRIEF</h3>
     <p>
       The research will explore the financial impacts of implementing machine
       learning-driven recommendation systems in the fashion e-commerce industry,

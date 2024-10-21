@@ -1,6 +1,7 @@
 export const Hypothesis = () => {
   return (
     <>
+      <h3>Hypothesis Testing Explained</h3>
       <p>
         In Unit 8 we explored hypothesis testing, which is a fundamental method
         used to make inferences about a population based on sample data. The
@@ -46,6 +47,51 @@ export const Hypothesis = () => {
         possibilities underscore that hypothesis testing does not prove or
         disprove hypotheses with absolute certainty but instead evaluates the
         likelihood of observed outcomes given the initial assumptions.
+      </p>
+      <h3>Conducting T-Tests</h3>
+      <p>
+        One of the t-test exercises we undertook looked to identify whether the
+        population mean income for males exceeds that of females.
+      </p>
+      <p>
+        <b>Null Hypothesis (H₀)</b>: The mean income for males is equal to the
+        mean income for females.
+      </p>
+      <p>
+        <b>Alternative Hypothesis (H₁)</b>: The mean income for males is greater
+        than the mean income for females.
+      </p>
+      <p>
+        As we were comparing two independent groups (males and females) on a
+        continuous variable (income) I chose an independent two-sample t-test.
+        The result of this test was:
+      </p>
+      <p>
+        <b>t-value:</b> 3.27
+      </p>
+      <p>
+        <b>p-value:</b> 0.00071
+      </p>
+      <p>
+        Since the p-value is much less than 0.05 and the t-value is quite high,
+        we can say with quite good confidence that there is a significant
+        difference in the income of male and females. There are many reasons why
+        this difference may exist, some include:
+        <ul>
+          <li>
+            the predomince of men in high paying industries, like IT or finance,
+          </li>
+          <li>
+            women more commonly taking time out of their careers or reducing
+            their working hours to support their families in care giving
+            capacities,
+          </li>
+          <li>
+            societal norms in certain regions may cause men to more actively
+            pursue higher paying jobs despite them potentially offering less
+            fulfillment.
+          </li>
+        </ul>
       </p>
     </>
   );
